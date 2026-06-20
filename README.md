@@ -11,8 +11,8 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedwasif2050)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedwasif2050)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@example.com)
 
 ---
 
@@ -32,10 +32,19 @@
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Metrics & Activity Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedwasif2050&show_icons=true&theme=tokyonight&count_private=true" alt="Wasif's GitHub Stats" height="190px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedwasif2050&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=syedwasif2050&show_icons=true&theme=tokyonight&count_private=true" alt="Wasif's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedwasif2050&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedwasif2050&theme=tokyonight" alt="Wasif's Git Streak" width="100%"/>
+</p>
+
+---
+
+## 🔒 Cyber Dev Quote
+
+> "🔑 *If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology.*" — **Bruce Schneier**
