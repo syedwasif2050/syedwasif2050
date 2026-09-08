@@ -1,30 +1,35 @@
 <div align="center">
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,50:161b22,100:00f2fe&height=220&section=header&text=Syed%20Wasif%20Masood&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
-  <h3><code>> Cyber Security Student | Penetration Tester | Full-Stack Developer</code></h3>
+# CH4_WASIF
+`I write code. I find flaws. Mainly the latter.`
 
-  <!-- Social Badges -->
-  <a href="https://linkedin.com/in/syed-wasif-masood-247181304">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wasifpora.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" />
-  </a>
-  <a href="mailto:syedwasif2050@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+---
+
+### **Rebranded because the old alias was too cute.**
+
+[![STALKER](https://img.shields.io/badge/STALKER-403-purple?style=flat-square)]()
+[![FANG](https://img.shields.io/badge/FANG-0-blue?style=flat-square)]()
+[![APPRECIATION](https://img.shields.io/badge/APPRECIATION-STAGE-magenta?style=flat-square)]()
+
+*Disclaimer: All security research was responsibly disclosed. No systems were permanently damaged during my learning process.*
+
 </div>
 
-<br/>
+---
 
-<!-- Terminal Bio Section -->
+### **whoami**
+
 ```bash
-⚡ whoami
----------------------------------------------------------------------------------------
-> Name: Syed Wasif Masood
-> Status: Cyber Security @ DUET | Full-Stack & Security Researcher
-> Expertise: Network Penetration Testing, C++ Native Security Tools & Web Development
-> Current Focus: Custom Automation, Web Application Audits & Vulnerability Assessment
-> Mission: "Securing systems by understanding how to break them."
----------------------------------------------------------------------------------------
+name: Syed Wasif Masood
+alias: Wasif # Cyber Security & Full-Stack Developer
+role: Security Researcher & Automation Engineer
+education: Cyber-security @ DUET | Building Native C++ Tools & AI Systems
+location: Pakistan 🇵🇰
+portfolio: wasifpora.netlify.app
+
+currently_doing:
+  - "Building native network scanners & packet analyzers in C++ & Python"
+  - "Auditing web applications & securing backend API endpoints"
+  - "Developing intelligent custom AI bots & automation tools"
+
+fun_fact: "I build secure code. Mainly because I know how easy it is to break the insecure ones."
