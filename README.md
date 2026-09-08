@@ -1,13 +1,16 @@
 <div align="center">
 
-# CH4_WASIF
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,50:161b22,100:6A1B9A&height=200&section=header&text=SYED_WASIF&fontSize=42&fontColor=ffffff&fontAlignY=40" width="100%" />
+
+# SYED WASIF MASOOD
 `I write code. I find flaws. Mainly the latter.`
 
----
+<br/>
 
-### **Rebranded because the old alias was too cute.**
+### **I do not find bugs. Bugs find me.**
 
-[![STALKER](https://img.shields.io/badge/STALKER-403-purple?style=flat-square)]()
+[![STALKER](https://img.shields.io/badge/STALKER-2050-purple?style=flat-square)]()
 [![FANG](https://img.shields.io/badge/FANG-0-blue?style=flat-square)]()
 [![APPRECIATION](https://img.shields.io/badge/APPRECIATION-STAGE-magenta?style=flat-square)]()
 
@@ -19,17 +22,26 @@
 
 ### **whoami**
 
-```bash
+<table>
+  <tr>
+    <td width="65%">
+
+```yaml
 name: Syed Wasif Masood
-alias: Wasif # Cyber Security & Full-Stack Developer
-role: Security Researcher & Automation Engineer
-education: Cyber-security @ DUET | Building Native C++ Tools & AI Systems
+alias: Wasif
+role: Full-Stack Developer & Cybersecurity Student
+education: Cybersecurity @ DUET
 location: Pakistan 🇵🇰
 portfolio: wasifpora.netlify.app
 
 currently_doing:
-  - "Building native network scanners & packet analyzers in C++ & Python"
-  - "Auditing web applications & securing backend API endpoints"
-  - "Developing intelligent custom AI bots & automation tools"
+  - "Building native network scanners & port analyzers in C++"
+  - "Developing packet sniffing utilities & security tools"
+  - "Building full-stack web applications with React & Node.js"
+
+achievements:
+  - "Built custom C++ network scanner utility"
+  - "Developed intelligent bilingual academic AI bot"
+  - "Executed hands-on cybersecurity audits & network testing"
 
 fun_fact: "I build secure code. Mainly because I know how easy it is to break the insecure ones."
