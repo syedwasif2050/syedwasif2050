@@ -1,341 +1,461 @@
+!-- =========================================================
+     SYED WASIF — GitHub Profile README
+     Cybersecurity • Automation • AI/ML • Full-Stack
+     ========================================================= -->
+
 <div align="center">
 
-⚡ SYED WASIF
+<a href="https://github.com/syedwasif2050">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:07111f,50:0b2239,100:00d4ff&text=SYED%20WASIF&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=CYBER%20AUTOMATOR%20%7C%20SECURITY%20%7C%20AUTOMATION%20%7C%20AI&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+</a>
 
-🛡️ Cyber Automator • Cybersecurity Student • Developer
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=760&lines=Cybersecurity+Student+%40+DUET;Building+Security+%2B+Automation+Tools;Network+Security+%7C+Python+%7C+C%2B%2B;AI%2FML+%7C+Full-Stack+Development;Build+%E2%80%A2+Break+%E2%80%A2+Automate+%E2%80%A2+Secure" alt="Typing SVG" />
+</a>
 
-<p>
-  <a href="https://github.com/syedwasif2050">
-    <img src="https://img.shields.io/badge/GitHub-syedwasif2050-0d1117?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/syed-wasif-masood-247181404/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-  </a>
-  <a href="https://wasifpro.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-wasifpro-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-</p>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:7c3aed&height=120&section=header&text=Security%20%7C%20Automation%20%7C%20Development&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
+<a href="https://github.com/syedwasif2050"><img src="https://img.shields.io/badge/GitHub-syedwasif2050-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/syed-wasif-masood-247181404"><img src="https://img.shields.io/badge/LinkedIn-Syed%20Wasif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wasifpro.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-wasifpro.netlify.app-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=syedwasif2050&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
 
 </div>
 
-👋 Hi there, I'm Wasif!
+whoami
 
-🔐 I don't just write code — I build, break, automate, and secure systems.
+┌──────────────────────────────────────────────────────────────────────┐
+│  SYED WASIF // CYBER AUTOMATOR                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│  Role       : Cybersecurity Student @ DUET                          │
+│  Focus      : Penetration Testing • Network Security                │
+│               Security Automation • Software Engineering             │
+│  Languages  : Python • C++ • JavaScript/TypeScript • Java           │
+│  Building   : Security tools, automation workflows & web systems    │
+│  Interests  : Recon • Networking • Secure APIs • AI/ML              │
+│  Philosophy : Understand the system → test the system → secure it   │
+└──────────────────────────────────────────────────────────────────────┘
 
-I'm a Cybersecurity Student at DUET focused on penetration testing, network security, security automation, and software development.
+I don't just write code — I build, break, automate, and secure systems.
 
-My GitHub combines cybersecurity labs and tools with practical web, backend, AI/ML, and automation projects. I'm especially interested in building tools that turn repetitive security tasks into reliable, useful workflows.
+./system-status
 
-🎯 What I do
+Module
 
-🛡️ Cybersecurity — Network Security, Penetration Testing & Security Research
+Status
 
-🌐 Networking — Scanning, packet analysis, traffic monitoring & troubleshooting
+🔐 Cybersecurity
 
-🤖 Automation — Python-based automation and security tooling
+ACTIVE — Network security, scanning & security tooling
 
-💻 Development — Web apps, APIs, dashboards and software systems
+⚙️ Automation
 
-🧠 AI / ML — Practical machine-learning and AI experiments
+ACTIVE — Python/Selenium workflows & custom utilities
 
-📚 Learning — Continuously improving through hands-on projects and labs
+🌐 Full-Stack
 
-🧰 Tech Stack & Security Toolbox
+ACTIVE — React, Next.js, Node.js, REST APIs
 
-🛡️ Cybersecurity & Networking
+🧠 AI / ML
 
-<p>
-<img src="https://img.shields.io/badge/Kali_Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=557C94">
-<img src="https://img.shields.io/badge/Scapy-111827?style=for-the-badge&logo=python&logoColor=3776AB">
-<img src="https://img.shields.io/badge/Network_Security-111827?style=for-the-badge&logo=cisco&logoColor=white">
-<img src="https://img.shields.io/badge/Penetration_Testing-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00">
-</p>
+ACTIVE — Computer vision, prediction & fraud detection
 
-⚙️ Programming & Automation
+🧪 Research Mode
 
-<p>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB">
-<img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C">
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
-<img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white">
-</p>
+RUNNING — learning by building practical systems
 
-🌐 Web / Backend / Data
+🧰 TECH STACK
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6">
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6">
-<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933">
-<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248">
-</p>
+<div align="center">
 
-🤖 AI / Machine Learning
+Languages
 
-<p>
-<img src="https://img.shields.io/badge/Python_ML-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
-<img src="https://img.shields.io/badge/Computer_Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8">
-<img src="https://img.shields.io/badge/AI_Automation-111827?style=for-the-badge&logo=openai&logoColor=white">
-</p>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css&perline=7" /></a>
 
-🔥 Featured Work
+Web / Backend
+
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,git,github&perline=8" /></a>
+
+Security / Networking
+
+<a href="#"><img src="https://skillicons.dev/icons?i=linux,bash,python,cpp&perline=8" /></a>
+
+Security focus: Network Recon · Port Analysis · Packet Inspection · API Security · Automation · Security Auditing
+
+AI / Data
+
+<a href="#"><img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&perline=8" /></a>
+
+AI/ML focus: Computer Vision · Regression · Classification · Data Preprocessing · Fraud Detection
+
+</div>
+
+🛡️ SECURITY LAB
+
+All security-related work is intended for authorized labs, educational environments, and systems where permission has been granted.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-🛍️ Nova Fashion Store
+wasif--network_scanner
 
-A modern, elegant and fully responsive e-commerce experience for luxury fashion.
+Network reconnaissance & port analysis
 
-Stack: TypeScript • Web Development
+Live host discovery
 
-</td>
-<td width="50%">
+TCP / UDP port analysis
 
-💎 Luxe E-Commerce Store
+Scapy-based networking
 
-Futuristic Next.js commerce platform featuring an AI shopping assistant, AR 3D simulator, spin wheel and dynamic themes.
+Built for practical network-security learning
 
-Stack: Next.js • AI • E-Commerce
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-🏠 Aetheria State
-
-Modern luxury full-stack real-estate platform designed around property listings and client consultation.
-
-Stack: Full Stack • Real Estate
+<a href="https://github.com/syedwasif2050/wasif--network_scanner">↗ Explore repository</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-🌸 Royal Perfumery
+NETWORK-_SNIFFER
 
-Premium e-commerce landing experience for a perfume brand with a polished frontend.
+Live packet analysis
 
-Stack: JavaScript • E-Commerce
+IP traffic monitoring
+
+Packet filtering
+
+Scapy-based inspection
+
+Network visibility experiments
+
+<a href="https://github.com/syedwasif2050/NETWORK-_SNIFFER">↗ Explore repository</a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-👤 User Management REST API
+keystroke_monitor.py
 
-REST API with Node.js, Express and MongoDB supporting user management, role-based access and admin actions.
+Security-audit research tool
 
-Stack: Node.js • Express • MongoDB
+Background event monitoring
+
+Python + pynput
+
+Designed for authorized security auditing
+
+Useful for understanding endpoint telemetry
+
+<a href="https://github.com/syedwasif2050/keystroke_monitor.py">↗ Explore repository</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-🌦️ Weather Pulse
+Teams-Meeting-Automation-Bot
 
-High-fidelity React weather application with glassmorphic UI and live weather API integration.
+Browser automation system
 
-Stack: React • CSS • API
+Selenium WebDriver
+
+Automated meeting actions
+
+Media controls
+
+Keyword-triggered chat responses
+
+<a href="https://github.com/syedwasif2050/Teams-Meeting-Automation-Bot">↗ Explore repository</a>
 
 </td>
 </tr>
 </table>
 
-🛡️ Cybersecurity Projects
+🚀 SELECTED BUILDS
+
+<div align="center">
 
 Project
 
-What it does
+What makes it interesting
 
-Core Tech
+Stack
 
-🔎 wasif--network_scanner
+🛍️ Nova Fashion Store
 
-Discovers live hosts and checks TCP/UDP ports
+Modern luxury e-commerce experience
 
-Python • Scapy
+TypeScript
 
-📡 NETWORK-_SNIFFER
+🤖 Luxe E-Commerce Store
 
-Captures and analyzes live IP traffic
+AI assistant + AR/3D concept + theme system
 
-Python • Scapy
+Next.js
 
-⌨️ keystroke_monitor.py
+🏠 Aetheria State
 
-Authorized security-audit keystroke logging lab
+Full-stack property listing & consultation platform
 
-Python • pynput
+Web
 
-🤖 Teams-Meeting-Automation-Bot
+🌹 Royal Perfumery
 
-Automates Teams meeting actions and keyword-triggered workflows
+Premium commerce landing experience
 
-Python • Selenium
+JavaScript
 
-🎓 wasif-ai-bot
+🔑 User Management REST API
 
-Bilingual English/Urdu academic assistant
+Roles, admin actions & MongoDB integration
 
-Python • AI
+Node.js
 
-🔒 Security projects are intended for authorized labs, learning environments and legitimate security testing only.
+🌦️ Weather Pulse
 
-🧠 AI & Data Science
+Live weather data + glassmorphic UI
 
-Project
+React
 
-Description
+🍽️ Ember Restaurant
 
-📈 linear-regression-from-scratch
+SPA + cart + menu filtering + order tracking
 
-Linear Regression implemented from scratch in Python without ML libraries
+JavaScript
 
-👗 Fashion-Image-Classification-CNN
+☁️ Apex Cloud Attendance
 
-CNN pipeline for fashion classification with 91.24% test accuracy
+Firebase real-time dashboard & operation logs
 
-🏠 House-Price-Prediction-Preprocessing
-
-Data cleaning, profiling and feature encoding pipeline for house-price ML
-
-💳 Credit-Card-Fraud-Detection
-
-Random Forest based fraud-detection model for transaction data
-
-📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=syedwasif2050&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=60A5FA&text_color=E5E7EB&rank_icon=github" height="175">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedwasif2050&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=60A5FA&currStreakLabel=E5E7EB" height="175">
+Firebase
 
 </div>
 
-<br>
+🧠 AI / DATA PROJECTS
+
+<details>
+<summary><b>Expand the ML side of my profile →</b></summary>
+
+<br/>
+
+📈 Linear Regression From Scratch
+
+Pure Python implementation of linear regression without relying on an ML library for the core model.
+
+Concepts: mathematics · model evaluation · prediction · feature relationships
+
+→ Open repository
+
+👗 Fashion Image Classification CNN
+
+Computer-vision pipeline using a CNN to classify fashion apparel.
+
+Reported test accuracy: 91.24%
+
+→ Open repository
+
+🏡 House Price Prediction — Preprocessing
+
+Data preparation workflow using Pandas for cleaning, profiling and encoding housing data.
+
+→ Open repository
+
+💳 Credit Card Fraud Detection
+
+Random Forest based fraud-detection experiment for transaction classification.
+
+→ Open repository
+
+🤖 Wasif AI Bot
+
+Bilingual English/Urdu academic chatbot built with Python and AI models.
+
+→ Open repository
+
+</details>
+
+🧩 ENGINEERING MINDSET
+
+                ┌─────────────────────┐
+                │     PROBLEM         │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │  UNDERSTAND SYSTEM  │
+                └──────────┬──────────┘
+                           │
+              ┌────────────┴────────────┐
+              ▼                         ▼
+       ┌──────────────┐         ┌──────────────┐
+       │ BUILD / CODE │         │ TEST / BREAK │
+       └──────┬───────┘         └──────┬───────┘
+              │                         │
+              └────────────┬────────────┘
+                           ▼
+                ┌─────────────────────┐
+                │ AUTOMATE THE BORING │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ SECURE THE SYSTEM   │
+                └─────────────────────┘
+
+📊 GITHUB TELEMETRY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedwasif2050&bg_color=0D1117&color=E5E7EB&line=8B5CF6&point=60A5FA&area=true&hide_border=true" width="96%">
+<a href="https://github.com/syedwasif2050">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=syedwasif2050&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=07111f&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/syedwasif2050">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedwasif2050&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=07111f&title_color=00d4ff&text_color=c9d1d9" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=syedwasif2050&theme=tokyonight&hide_border=true&background=07111f&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedwasif2050&bg_color=07111f&color=c9d1d9&line=00d4ff&point=ffffff&area=true&hide_border=true" width="96%" />
 
 </div>
 
-📌 My Development Journey
-
-                 ┌─────────────────────┐
-                 │   Programming       │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Networking & Linux  │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Cybersecurity       │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Automation & Tools  │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ AI / ML / Web Apps  │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Security Engineering│
-                 └─────────────────────┘
-
-🚀 Currently Exploring
-
-+ Advanced Network Security
-+ Penetration Testing Methodology
-+ Security Automation with Python
-+ Web Application Security
-+ AI-assisted Security Workflows
-+ Secure Backend & API Development
-+ Machine Learning
-
-🏆 2026 Goals
-
-Build practical cybersecurity tools
-
-Work with packet analysis and network scanning
-
-Build full-stack web projects
-
-Explore AI / Machine Learning
-
-Build larger security automation frameworks
-
-Contribute to open-source security projects
-
-Publish more technical security write-ups
-
-Build a stronger cybersecurity portfolio
-
-💻 Project Showcase
+🐍 CONTRIBUTION TRACE
 
 <div align="center">
 
-🧩 Area
-
-🔥 Focus
-
-🛡️ Security
-
-Network Scanning • Packet Analysis • Pentesting
-
-🌐 Web
-
-E-Commerce • REST APIs • Dashboards
-
-🤖 AI/ML
-
-Computer Vision • Regression • Fraud Detection
-
-⚙️ Automation
-
-Python • Selenium • Security Scripts
-
-💾 Programming
-
-Python • C++ • Java • JavaScript • TypeScript
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
-📫 Let's Connect
+🎯 CURRENT MISSION
+
+identity: "Cyber Automator"
+environment: "Cybersecurity + Software Engineering"
+
+now:
+  - strengthen network security fundamentals
+  - build practical security automation
+  - improve C++ and Python tooling
+  - develop production-quality web systems
+  - explore AI/ML for security-oriented use cases
+
+next:
+  - deeper penetration-testing methodology
+  - advanced networking
+  - secure API engineering
+  - Linux & security tooling
+  - stronger open-source portfolio
+
+🗺️ DEVELOPMENT ROADMAP
+
+Programming
+     │
+     ├── Python / C++ / JavaScript
+     │
+     ▼
+Networking & Linux
+     │
+     ├── TCP/IP • Ports • Packets • Systems
+     │
+     ▼
+Cybersecurity
+     │
+     ├── Recon • Analysis • Security Testing
+     │
+     ▼
+Automation & Tooling
+     │
+     ├── Scapy • Selenium • Custom Utilities
+     │
+     ▼
+AI / ML + Full-Stack
+     │
+     ├── CV • APIs • React • Next.js • Node
+     │
+     ▼
+Security Engineering
+     │
+     └── BUILD → TEST → AUTOMATE → SECURE
+
+🏆 WHAT I LIKE TO BUILD
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+🔐
+
+Security Tools
+
+Recon, scanners, network visibility and defensive utilities.
+
+</td>
+<td align="center" width="25%">
+
+⚙️
+
+Automation
+
+Scripts and workflows that remove repetitive work.
+
+</td>
+<td align="center" width="25%">
+
+🧠
+
+Intelligent Systems
+
+AI/ML experiments with practical engineering goals.
+
+</td>
+<td align="center" width="25%">
+
+🌐
+
+Modern Apps
+
+Responsive interfaces, APIs and full-stack systems.
+
+</td>
+</tr>
+</table>
+
+📡 FIND ME ON THE NETWORK
 
 <div align="center">
 
-Have a project, security idea, or interesting problem?
+<a href="https://github.com/syedwasif2050">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/syed-wasif-masood-247181404">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://wasifpro.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
-Let's build something useful. 🔐
+<br/><br/>
 
-<a href="https://github.com/syedwasif2050">GitHub</a>
-  •  
-<a href="https://www.linkedin.com/in/syed-wasif-masood-247181404/">LinkedIn</a>
-  •  
-<a href="https://wasifpro.netlify.app/">Portfolio</a>
+$ connection --status
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=syedwasif2050&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge">
+[+] GitHub     : ONLINE
+[+] Portfolio  : ONLINE
+[+] LinkedIn   : ONLINE
+[+] Build mode : ALWAYS ON
 
 </div>
 
 <div align="center">
 
-🛡️ BUILD • BREAK • AUTOMATE • SECURE
+BUILD • BREAK • AUTOMATE • SECURE
 
-"The best way to understand a system is to build it, test it, and secure it."
+<sub>Designed around real projects from <a href="https://github.com/syedwasif2050">syedwasif2050</a> — not a generic template.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00d4ff,50:0b2239,100:07111f&section=footer" width="100%"/>
 
 </div>
