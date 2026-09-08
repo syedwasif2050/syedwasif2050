@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,50:161b22,100:6A1B9A&height=200&section=header&text=SYED_WASIF&fontSize=42&fontColor=ffffff&fontAlignY=40" width="100%" />
+<!-- Purple Header Banner -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,50:161b22,100:6A1B9A&height=200&section=header&text=CH4_WASIF&fontSize=42&fontColor=ffffff&fontAlignY=40" width="100%" />
 
-# SYED WASIF MASOOD
+# CH4_WASIF
 `I write code. I find flaws. Mainly the latter.`
 
 <br/>
 
-### **I do not find bugs. Bugs find me.**
+### <font color="#9C27B0">I do not find bugs. Bugs find me.</font>
 
 [![STALKER](https://img.shields.io/badge/STALKER-2050-purple?style=flat-square)]()
 [![FANG](https://img.shields.io/badge/FANG-0-blue?style=flat-square)]()
@@ -24,24 +24,24 @@
 
 <table>
   <tr>
-    <td width="65%">
+    <td width="60%">
 
 ```yaml
 name: Syed Wasif Masood
-alias: Wasif
-role: Full-Stack Developer & Cybersecurity Student
-education: Cybersecurity @ DUET
+alias: Wasif # Cybersecurity Student @ DUET
+role: Full-Stack Developer & Security Researcher
+education: Cyber Security @ DUET
 location: Pakistan 🇵🇰
 portfolio: wasifpora.netlify.app
 
 currently_doing:
-  - "Building native network scanners & port analyzers in C++"
-  - "Developing packet sniffing utilities & security tools"
-  - "Building full-stack web applications with React & Node.js"
+  - "Writing native scripts in C++ and Python to audit and secure networks"
+  - "Building intelligent AI bots and web applications"
+  - "Exploration: Digital Forensics, Linux System Admin, Wireshark Labs"
 
 achievements:
-  - "Built custom C++ network scanner utility"
-  - "Developed intelligent bilingual academic AI bot"
-  - "Executed hands-on cybersecurity audits & network testing"
+  - "Developed C++ native network scanner & port analyzer"
+  - "Built bilingual academic AI chatbot"
+  - "Open for internships, security collaborations & technical networking"
 
 fun_fact: "I build secure code. Mainly because I know how easy it is to break the insecure ones."
