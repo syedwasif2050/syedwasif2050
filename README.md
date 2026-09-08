@@ -1,50 +1,30 @@
-# Hi there 👋 I'm Wasif!
+<div align="center">
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,50:161b22,100:00f2fe&height=220&section=header&text=Syed%20Wasif%20Masood&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
-## 🛡️ About Me: 
-* 🎓 **Cybersecurity Student** at Dawood University of Engineering and Technology (DUET), Karachi.
-* 💻 **Specialization:** Penetration Testing, Network Security, and Security Automation.
-* ⚙️ **Core Strategy:** Writing native scripts in C++ and Python to audit and secure networks.
-* 🔍 **Exploring:** Digital Forensics, Linux System Administration, and Advanced Wireshark Labs.
-* 💼 Open to internships, security collaborations, and technical networking.
+  <h3><code>> Cyber Security Student | Penetration Tester | Full-Stack Developer</code></h3>
 
----
+  <!-- Social Badges -->
+  <a href="https://linkedin.com/in/syed-wasif-masood-247181304">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wasifpora.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
+  <a href="mailto:syedwasif2050@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-## 🌐 Socials:
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-wasif-masood-247181404/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](syedwasif2050@gmail.com)
-
----
-
-## 💻 Tech Stack & Security Toolbelt:
-
-### 🛡️ Cybersecurity & Networks
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nmap](https://img.shields.io/badge/Nmap-%234D4D4D.svg?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white)
-
-### ⚙️ Automation & Core Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Metrics & Activity Streaks
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedwasif2050&show_icons=true&theme=tokyonight&count_private=true" alt="Wasif's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedwasif2050&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedwasif2050&theme=tokyonight" alt="Wasif's Git Streak" width="100%"/>
-</p>
-
----
-
-## 🔒 Cyber Dev Quote
-
-> "🔑 *If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology.*" — **Bruce Schneier**
+<!-- Terminal Bio Section -->
+```bash
+⚡ whoami
+---------------------------------------------------------------------------------------
+> Name: Syed Wasif Masood
+> Status: Cyber Security @ DUET | Full-Stack & Security Researcher
+> Expertise: Network Penetration Testing, C++ Native Security Tools & Web Development
+> Current Focus: Custom Automation, Web Application Audits & Vulnerability Assessment
+> Mission: "Securing systems by understanding how to break them."
+---------------------------------------------------------------------------------------
