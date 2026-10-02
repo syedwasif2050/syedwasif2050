@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://wasifpro.netlify.app/">
+<a href="https://https://syed-wasif-masood--portfolio.vercel.app//">
 <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
@@ -600,7 +600,7 @@ Cloud Systems
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://wasifpro.netlify.app/">
+<a href="https://https://syed-wasif-masood--portfolio.vercel.app//">
 <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
