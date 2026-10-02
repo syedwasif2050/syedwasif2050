@@ -1,99 +1,129 @@
-<!-- =========================================================
-     SYED WASIF — GitHub Profile README
+````markdown
+<!-- ============================================================
+     SYED WASIF
      CYBERSECURITY • AUTOMATION • AI/ML • FULL-STACK
-     ========================================================= -->
+     Advanced GitHub Profile README
+     ============================================================ -->
 
 <div align="center">
 
+<!-- HERO -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:030712,35:071525,70:07324d,100:00d9ff&text=SYED%20WASIF&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=CYBER%20AUTOMATOR%20%7C%20SECURITY%20%7C%20AUTOMATION%20%7C%20AI&descAlignY=62&descSize=17&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Student+%40+DUET;Security+%2B+Automation+Engineer+in+Progress;Network+Security+%7C+Python+%7C+C%2B%2B;AI%2FML+%7C+Full-Stack+Development;Build+%E2%80%A2+Test+%E2%80%A2+Automate+%E2%80%A2+Secure" alt="Typing Animation"/>
+
+<br><br>
+
 <a href="https://github.com/syedwasif2050">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050b14,45:071a2d,75:063b59,100:00d4ff&text=SYED%20WASIF&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=CYBER%20AUTOMATOR%20%7C%20SECURITY%20%7C%20AUTOMATION%20%7C%20AI&descAlignY=61&descSize=16&animation=fadeIn"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=850&lines=Cybersecurity+Student+%40+DUET;Building+Security+%2B+Automation+Tools;Network+Security+%7C+Python+%7C+C%2B%2B;AI%2FML+%7C+Full-Stack+Engineering;Build+%E2%80%A2+Test+%E2%80%A2+Automate+%E2%80%A2+Secure" alt="Typing SVG"/>
-
-<br/><br/>
-
-<a href="https://github.com/syedwasif2050">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/syed-wasif-masood-247181404">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://wasifpro.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=syedwasif2050&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=syedwasif2050&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# `whoami`
+<!-- ============================================================
+     IDENTITY
+     ============================================================ -->
+
+<div align="center">
+
+# `> whoami`
+
+### `SYED WASIF // CYBER AUTOMATOR`
+
+**Cybersecurity • Security Automation • AI/ML • Full-Stack Engineering**
+
+</div>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   SYED WASIF // CYBER AUTOMATOR                              │
-│                                                              │
-│   ROLE        → Cybersecurity Student @ DUET                  │
-│   FOCUS       → Network Security • Automation • Software     │
-│   LANGUAGES   → Python • C++ • JavaScript • TypeScript       │
-│   BUILDING    → Security Tools • Web Systems • AI Systems    │
-│   INTERESTS   → Recon • APIs • Networking • AI/ML            │
-│                                                              │
-│   MINDSET                                                     │
-│   Understand the system → test the system → secure it         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+╔══════════════════════════════════════════════════════════════╗
+║                    SYSTEM IDENTITY                           ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ROLE        :: Cybersecurity Student @ DUET                 ║
+║  FOCUS       :: Network Security + Security Automation       ║
+║  BUILDING    :: Security Tools + Web Systems + AI Systems   ║
+║                                                              ║
+║  LANGUAGES   :: Python • C++ • JavaScript • TypeScript       ║
+║                                                              ║
+║  INTERESTS   :: Networking • Recon • Secure APIs • AI/ML     ║
+║                                                              ║
+║  PHILOSOPHY  :: Understand → Test → Automate → Secure        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+````
 
-> I don't just write code.
-> **I build systems, test them, automate them, and make them more secure.**
+<div align="center">
+
+> **I don't just write code.**
+>
+> I build systems, understand how they work, test them, automate repetitive work, and continuously learn how to make them more secure.
+
+</div>
 
 ---
 
-# ⚡ `system.status`
+# ⚡ `SYSTEM // STATUS`
+
+<div align="center">
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🔐 CYBERSECURITY
+## 🔐 CYBERSECURITY
 
 ```text
-STATUS: ACTIVE
-
-Network Security
-Recon & Port Analysis
-Packet Inspection
-Security Automation
-API Security
-Security Auditing
+┌──────────────────────────────┐
+│ STATUS  :  ● ACTIVE          │
+├──────────────────────────────┤
+│                              │
+│ Network Security             │
+│ Recon & Port Analysis        │
+│ Packet Inspection            │
+│ Security Automation          │
+│ API Security                 │
+│ Security Auditing            │
+│                              │
+└──────────────────────────────┘
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ AUTOMATION
+## ⚙️ AUTOMATION
 
 ```text
-STATUS: ACTIVE
-
-Python Automation
-Selenium Workflows
-Custom Utilities
-Browser Automation
-Task Automation
-Security Tooling
+┌──────────────────────────────┐
+│ STATUS  :  ● ACTIVE          │
+├──────────────────────────────┤
+│                              │
+│ Python Automation             │
+│ Selenium Workflows            │
+│ Browser Automation            │
+│ Custom Utilities              │
+│ Workflow Automation           │
+│ Security Tooling              │
+│                              │
+└──────────────────────────────┘
 ```
 
 </td>
@@ -104,34 +134,42 @@ Security Tooling
 
 <td width="50%" valign="top">
 
-### 🌐 FULL-STACK
+## 🌐 FULL-STACK
 
 ```text
-STATUS: ACTIVE
-
-React
-Next.js
-Node.js
-Express
-REST APIs
-MongoDB
+┌──────────────────────────────┐
+│ STATUS  :  ● ACTIVE          │
+├──────────────────────────────┤
+│                              │
+│ React                        │
+│ Next.js                      │
+│ Node.js                      │
+│ Express                      │
+│ REST APIs                    │
+│ MongoDB                      │
+│                              │
+└──────────────────────────────┘
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 AI / ML
+## 🧠 AI / ML
 
 ```text
-STATUS: EXPLORING
-
-Computer Vision
-Classification
-Regression
-Fraud Detection
-Data Processing
-AI-powered Systems
+┌──────────────────────────────┐
+│ STATUS  :  ● EXPLORING       │
+├──────────────────────────────┤
+│                              │
+│ Computer Vision              │
+│ Classification              │
+│ Regression                  │
+│ Fraud Detection              │
+│ Data Processing              │
+│ AI-powered Systems           │
+│                              │
+└──────────────────────────────┘
 ```
 
 </td>
@@ -139,25 +177,33 @@ AI-powered Systems
 </tr>
 </table>
 
+</div>
+
 ---
 
-# 🧰 `tech.stack`
+# 🧰 `TECH // STACK`
 
 <div align="center">
 
-### PROGRAMMING
+### `PROGRAMMING`
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css&perline=7"/>
 
-### WEB & BACKEND
+<br><br>
+
+### `WEB // BACKEND`
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,git,github&perline=8"/>
 
-### SECURITY & SYSTEMS
+<br><br>
+
+### `LINUX // SECURITY // SYSTEMS`
 
 <img src="https://skillicons.dev/icons?i=linux,bash,python,cpp&perline=8"/>
 
-### AI / DATA
+<br><br>
+
+### `AI // DATA`
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&perline=8"/>
 
@@ -165,53 +211,63 @@ AI-powered Systems
 
 ---
 
-# 🛡️ `security.lab`
+# 🛡️ `SECURITY // LAB`
 
-> All security-related work is intended for authorized labs, educational environments, and systems where permission has been granted.
+> **Ethical security notice:** Security-related projects are intended for authorized labs, educational environments, and systems where permission has been granted.
+
+<br>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## `01` Network Scanner
+### `01` // NETWORK SCANNER
 
-### `wasif--network_scanner`
+# `wasif--network_scanner`
 
-Network reconnaissance and port-analysis utility.
+**Network reconnaissance + port analysis**
 
 ```text
-✓ Live Host Discovery
-✓ TCP / UDP Analysis
-✓ Scapy Networking
-✓ Network Recon
-✓ Security Learning
+┌────────────────────────────────┐
+│ MODULES                        │
+├────────────────────────────────┤
+│ ✓ Live Host Discovery          │
+│ ✓ TCP / UDP Analysis           │
+│ ✓ Scapy Networking             │
+│ ✓ Network Recon                │
+│ ✓ Security Learning            │
+└────────────────────────────────┘
 ```
 
 <a href="https://github.com/syedwasif2050/wasif--network_scanner">
-<img src="https://img.shields.io/badge/EXPLORE-00D4FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=07111f"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## `02` Network Sniffer
+### `02` // NETWORK SNIFFER
 
-### `NETWORK-_SNIFFER`
+# `NETWORK-_SNIFFER`
 
-Live packet visibility and traffic inspection.
+**Live packet visibility + traffic inspection**
 
 ```text
-✓ IP Traffic Monitoring
-✓ Packet Filtering
-✓ Scapy
-✓ Traffic Analysis
-✓ Network Visibility
+┌────────────────────────────────┐
+│ MODULES                        │
+├────────────────────────────────┤
+│ ✓ IP Traffic Monitoring        │
+│ ✓ Packet Filtering             │
+│ ✓ Scapy Inspection             │
+│ ✓ Traffic Analysis             │
+│ ✓ Network Visibility           │
+└────────────────────────────────┘
 ```
 
 <a href="https://github.com/syedwasif2050/NETWORK-_SNIFFER">
-<img src="https://img.shields.io/badge/EXPLORE-00D4FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=07111f"/>
 </a>
 
 </td>
@@ -222,44 +278,52 @@ Live packet visibility and traffic inspection.
 
 <td width="50%" valign="top">
 
-## `03` Endpoint Monitor
+### `03` // ENDPOINT MONITOR
 
-### `keystroke_monitor.py`
+# `keystroke_monitor.py`
 
-Security-audit research tool for authorized environments.
+**Security-audit research tool**
 
 ```text
-✓ Python
-✓ pynput
-✓ Endpoint Telemetry
-✓ Event Monitoring
-✓ Security Research
+┌────────────────────────────────┐
+│ MODULES                        │
+├────────────────────────────────┤
+│ ✓ Python                       │
+│ ✓ pynput                       │
+│ ✓ Event Monitoring             │
+│ ✓ Endpoint Telemetry           │
+│ ✓ Security Research            │
+└────────────────────────────────┘
 ```
 
 <a href="https://github.com/syedwasif2050/keystroke_monitor.py">
-<img src="https://img.shields.io/badge/EXPLORE-00D4FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=07111f"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## `04` Meeting Automation
+### `04` // MEETING AUTOMATION
 
-### `Teams-Meeting-Automation-Bot`
+# `Teams-Meeting-Automation-Bot`
 
-Browser automation system built around Selenium.
+**Browser automation system**
 
 ```text
-✓ Selenium WebDriver
-✓ Automated Actions
-✓ Media Controls
-✓ Keyword Responses
-✓ Browser Automation
+┌────────────────────────────────┐
+│ MODULES                        │
+├────────────────────────────────┤
+│ ✓ Selenium WebDriver           │
+│ ✓ Automated Actions             │
+│ ✓ Media Controls                │
+│ ✓ Keyword Responses             │
+│ ✓ Browser Automation            │
+└────────────────────────────────┘
 ```
 
 <a href="https://github.com/syedwasif2050/Teams-Meeting-Automation-Bot">
-<img src="https://img.shields.io/badge/EXPLORE-00D4FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=07111f"/>
 </a>
 
 </td>
@@ -269,77 +333,148 @@ Browser automation system built around Selenium.
 
 ---
 
-# 🚀 `featured.projects`
+# 🚀 `SELECTED // BUILDS`
 
 <div align="center">
 
-| PROJECT                      |     DOMAIN    |    STACK   |
-| :--------------------------- | :-----------: | :--------: |
-| 🛍️ **Nova Fashion Store**   |   E-Commerce  | TypeScript |
-| 🤖 **Luxe E-Commerce Store** | AI + Commerce |   Next.js  |
-| 🏠 **Aetheria State**        |  Real Estate  | Full-Stack |
-| 🌹 **Royal Perfumery**       |   E-Commerce  | JavaScript |
-| 🔑 **User Management API**   |    Backend    |   Node.js  |
-| 🌦️ **Weather Pulse**        |    Web App    |    React   |
-| 🍽️ **Ember Restaurant**     |   Full-Stack  | JavaScript |
-| ☁️ **Apex Cloud Attendance** |  Cloud System |  Firebase  |
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛍️ NOVA FASHION STORE
+
+**Modern luxury e-commerce experience**
+
+`TypeScript`
+
+---
+
+### 🤖 LUXE E-COMMERCE STORE
+
+**AI assistant + AR/3D concept + theme system**
+
+`Next.js`
+
+---
+
+### 🏠 AETHERIA STATE
+
+**Full-stack property listing + consultation platform**
+
+`Web`
+
+---
+
+### 🌹 ROYAL PERFUMERY
+
+**Premium commerce landing experience**
+
+`JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔑 USER MANAGEMENT API
+
+**Roles + admin actions + MongoDB**
+
+`Node.js`
+
+---
+
+### 🌦️ WEATHER PULSE
+
+**Live weather data + glassmorphic UI**
+
+`React`
+
+---
+
+### 🍽️ EMBER RESTAURANT
+
+**SPA + cart + filtering + order tracking**
+
+`JavaScript`
+
+---
+
+### ☁️ APEX CLOUD ATTENDANCE
+
+**Firebase real-time dashboard + operation logs**
+
+`Firebase`
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🧠 `ai.data.lab`
+# 🧠 `AI // DATA // LAB`
+
+<div align="center">
+
+### `MACHINE LEARNING • COMPUTER VISION • INTELLIGENT SYSTEMS`
+
+</div>
 
 <details>
-<summary><b>▶ Explore AI / ML Projects</b></summary>
+<summary><b>🧠 OPEN AI / ML PROJECT LAB</b></summary>
 
-<br/>
+<br>
 
-### 📈 Linear Regression From Scratch
+### 📈 `01` — Linear Regression From Scratch
 
-Pure Python implementation focused on understanding the mathematics behind regression.
+Pure Python implementation focused on understanding the mathematical foundation of regression.
 
-**Concepts**
+**Core concepts**
 
 `Mathematics` `Prediction` `Feature Relationships` `Model Evaluation`
 
 ---
 
-### 👗 Fashion Image Classification
+### 👗 `02` — Fashion Image Classification
 
-Computer-vision pipeline using a CNN for fashion-apparel classification.
+Computer-vision pipeline using a CNN to classify fashion apparel.
 
 ```text
-Reported Test Accuracy → 91.24%
+TEST ACCURACY
+──────────────
+91.24%
 ```
 
-**Concepts**
+**Core concepts**
 
 `CNN` `Computer Vision` `Image Classification`
 
 ---
 
-### 🏡 House Price Prediction
+### 🏡 `03` — House Price Prediction
 
-Data-preparation workflow using Pandas.
+Data-preparation workflow using Pandas for housing-data processing.
 
 ```text
-Raw Data
+RAW DATA
    ↓
-Cleaning
+CLEANING
    ↓
-Profiling
+PROFILING
    ↓
-Encoding
+ENCODING
    ↓
-Model Preparation
+MODEL PREPARATION
 ```
 
 ---
 
-### 💳 Credit Card Fraud Detection
+### 💳 `04` — Credit Card Fraud Detection
 
-Random Forest based experiment for transaction classification.
+Random Forest based transaction-classification experiment.
 
 **Focus**
 
@@ -347,144 +482,162 @@ Random Forest based experiment for transaction classification.
 
 ---
 
-### 🤖 Wasif AI Bot
+### 🤖 `05` — Wasif AI Bot
 
-Bilingual English/Urdu academic chatbot built with Python and AI models.
+Bilingual English / Urdu academic chatbot built with Python and AI models.
 
 **Focus**
 
-`AI` `NLP` `Python` `English / Urdu`
+`AI` `NLP` `Python` `English` `Urdu`
 
 </details>
 
 ---
 
-# 🔥 `currently.building`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  [01] CYBERSECURITY                                        │
-│       └─ Network security fundamentals                     │
-│                                                             │
-│  [02] SECURITY AUTOMATION                                  │
-│       └─ Practical Python security tooling                 │
-│                                                             │
-│  [03] C++ / PYTHON                                         │
-│       └─ Stronger system-level utilities                   │
-│                                                             │
-│  [04] FULL-STACK                                            │
-│       └─ Production-quality web applications               │
-│                                                             │
-│  [05] AI × SECURITY                                         │
-│       └─ Intelligent security-oriented systems             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🧩 `engineering.mindset`
-
-```text
-                    ┌───────────────┐
-                    │    PROBLEM    │
-                    └───────┬───────┘
-                            │
-                            ▼
-                 ┌────────────────────┐
-                 │  UNDERSTAND SYSTEM │
-                 └──────────┬─────────┘
-                            │
-                 ┌──────────┴──────────┐
-                 ▼                     ▼
-          ┌──────────────┐      ┌──────────────┐
-          │ BUILD / CODE │      │ TEST / BREAK │
-          └──────┬───────┘      └──────┬───────┘
-                 │                     │
-                 └──────────┬──────────┘
-                            ▼
-                  ┌──────────────────┐
-                  │ AUTOMATE WORKFLOW│
-                  └────────┬─────────┘
-                           │
-                           ▼
-                  ┌──────────────────┐
-                  │ SECURE THE SYSTEM│
-                  └──────────────────┘
-```
-
----
-
-# 🗺️ `development.roadmap`
-
-```text
-PROGRAMMING
-    │
-    ├── Python
-    ├── C++
-    └── JavaScript / TypeScript
-    │
-    ▼
-NETWORKING + LINUX
-    │
-    ├── TCP/IP
-    ├── Ports
-    ├── Packets
-    └── Systems
-    │
-    ▼
-CYBERSECURITY
-    │
-    ├── Recon
-    ├── Analysis
-    └── Security Testing
-    │
-    ▼
-AUTOMATION
-    │
-    ├── Scapy
-    ├── Selenium
-    └── Custom Utilities
-    │
-    ▼
-AI / ML + FULL-STACK
-    │
-    ├── Computer Vision
-    ├── APIs
-    ├── React
-    ├── Next.js
-    └── Node.js
-    │
-    ▼
-SECURITY ENGINEERING
-    │
-    └── BUILD → TEST → AUTOMATE → SECURE
-```
-
----
-
-# 📊 `github.telemetry`
+# 🔥 `CURRENTLY // BUILDING`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=syedwasif2050&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=07111f&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedwasif2050&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=07111f&title_color=00d4ff&text_color=c9d1d9"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=syedwasif2050&theme=tokyonight&hide_border=true&background=07111f&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedwasif2050&bg_color=07111f&color=c9d1d9&line=00d4ff&point=ffffff&area=true&hide_border=true" width="96%"/>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    ACTIVE DEVELOPMENT                        ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [01] 🔐 CYBERSECURITY                                      ║
+║       └─ Network security fundamentals                      ║
+║                                                              ║
+║  [02] ⚙️ SECURITY AUTOMATION                                ║
+║       └─ Practical Python security tooling                  ║
+║                                                              ║
+║  [03] 💻 C++ / PYTHON                                       ║
+║       └─ Stronger system-level utilities                    ║
+║                                                              ║
+║  [04] 🌐 FULL-STACK                                         ║
+║       └─ Production-quality web systems                     ║
+║                                                              ║
+║  [05] 🧠 AI × SECURITY                                      ║
+║       └─ Intelligent security-oriented systems              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-# 🐍 `contribution.trace`
+# 🧩 `ENGINEERING // MINDSET`
+
+<div align="center">
+
+```text
+                         ┌──────────────┐
+                         │    PROBLEM   │
+                         └──────┬───────┘
+                                │
+                                ▼
+                  ┌────────────────────────┐
+                  │   UNDERSTAND SYSTEM   │
+                  └────────────┬───────────┘
+                               │
+                    ┌──────────┴──────────┐
+                    │                     │
+                    ▼                     ▼
+             ┌──────────────┐      ┌──────────────┐
+             │ BUILD / CODE │      │ TEST / BREAK │
+             └──────┬───────┘      └──────┬───────┘
+                    │                     │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌────────────────────┐
+                    │ AUTOMATE WORKFLOW  │
+                    └──────────┬─────────┘
+                               │
+                               ▼
+                    ┌────────────────────┐
+                    │  SECURE THE SYSTEM │
+                    └────────────────────┘
+```
+
+### `PROBLEM → UNDERSTAND → BUILD → TEST → AUTOMATE → SECURE`
+
+</div>
+
+---
+
+# 🗺️ `DEVELOPMENT // ROADMAP`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    DEVELOPMENT PATH                         │
+└──────────────────────────────────────────────────────────────┘
+
+        PROGRAMMING
+             │
+             ├── Python
+             ├── C++
+             └── JavaScript / TypeScript
+             │
+             ▼
+        NETWORKING + LINUX
+             │
+             ├── TCP/IP
+             ├── Ports
+             ├── Packets
+             └── Systems
+             │
+             ▼
+        CYBERSECURITY
+             │
+             ├── Recon
+             ├── Analysis
+             └── Security Testing
+             │
+             ▼
+        AUTOMATION + TOOLING
+             │
+             ├── Scapy
+             ├── Selenium
+             └── Custom Utilities
+             │
+             ▼
+        AI / ML + FULL-STACK
+             │
+             ├── Computer Vision
+             ├── APIs
+             ├── React
+             ├── Next.js
+             └── Node.js
+             │
+             ▼
+        SECURITY ENGINEERING
+             │
+             └── BUILD → TEST → AUTOMATE → SECURE
+```
+
+---
+
+# 📊 `GITHUB // TELEMETRY`
+
+<div align="center">
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=syedwasif2050&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=07111f&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedwasif2050&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=07111f&title_color=00d9ff&text_color=c9d1d9"/>
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=syedwasif2050&theme=tokyonight&hide_border=true&background=07111f&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
+
+<br><br>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=syedwasif2050&bg_color=07111f&color=c9d1d9&line=00d9ff&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 `CONTRIBUTION // TRACE`
 
 <div align="center">
 
@@ -494,7 +647,9 @@ SECURITY ENGINEERING
 
 ---
 
-# 🎯 `current.mission`
+# 🎯 `CURRENT // MISSION`
+
+<div align="center">
 
 ```yaml
 identity: "Cyber Automator"
@@ -520,9 +675,11 @@ next:
   - Open Source Security Projects
 ```
 
+</div>
+
 ---
 
-# 🏗️ `what.i.build`
+# 🏗️ `WHAT // I // BUILD`
 
 <div align="center">
 
@@ -531,9 +688,9 @@ next:
 
 <td width="25%" align="center">
 
-### 🔐
+## 🔐
 
-**SECURITY TOOLS**
+### SECURITY TOOLS
 
 Recon
 Scanners
@@ -544,9 +701,9 @@ Defensive Utilities
 
 <td width="25%" align="center">
 
-### ⚙️
+## ⚙️
 
-**AUTOMATION**
+### AUTOMATION
 
 Scripts
 Workflows
@@ -557,9 +714,9 @@ Security Utilities
 
 <td width="25%" align="center">
 
-### 🧠
+## 🧠
 
-**INTELLIGENT SYSTEMS**
+### INTELLIGENT SYSTEMS
 
 AI / ML
 Computer Vision
@@ -570,9 +727,9 @@ Fraud Detection
 
 <td width="25%" align="center">
 
-### 🌐
+## 🌐
 
-**MODERN APPS**
+### MODERN APPS
 
 React
 APIs
@@ -588,31 +745,39 @@ Cloud Systems
 
 ---
 
-# 📡 `connect`
+# 🌐 `NETWORK // ACCESS`
 
 <div align="center">
 
 <a href="https://github.com/syedwasif2050">
-<img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+ 
 
 <a href="https://www.linkedin.com/in/syed-wasif-masood-247181404">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+ 
 
 <a href="https://wasifpro.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
 ```text
-$ connection --status
-
-GitHub       : ONLINE
-Portfolio    : ONLINE
-LinkedIn     : ONLINE
-Build Mode   : ALWAYS ON
+┌─────────────────────────────────────────────┐
+│              CONNECTION STATUS              │
+├─────────────────────────────────────────────┤
+│                                             │
+│  GitHub       :  ● ONLINE                   │
+│  Portfolio    :  ● ONLINE                   │
+│  LinkedIn     :  ● ONLINE                   │
+│  Build Mode   :  ● ALWAYS ON                │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
 </div>
@@ -621,14 +786,26 @@ Build Mode   : ALWAYS ON
 
 <div align="center">
 
-### `BUILD • TEST • AUTOMATE • SECURE`
+# `BUILD • TEST • AUTOMATE • SECURE`
+
+<br>
 
 <sub>
-Designed around practical projects and continuous learning.
+Designed around practical projects, security research, automation, AI/ML experiments,
+and continuous engineering growth.
 </sub>
 
-<br/><br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00d4ff,50:0b2239,100:07111f&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00d9ff,45:07324d,100:030712&section=footer" width="100%"/>
 
 </div>
+
+<!-- ============================================================
+     END
+     ============================================================ -->
+
+```
+
+**Ye wala version intentionally ek hi complete code block mein hai**, isliye upar wale code block ka **Copy** button use karke poora README ek saath copy kar sakte ho.
+```
